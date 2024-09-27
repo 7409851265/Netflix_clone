@@ -589,7 +589,7 @@ footer {
 
 @media (max-width: 660px) and (min-width: 400px) {
   .headSection {
-    height: 100vh;
+    height: 53vh;
   }
 
   .navBar {
@@ -772,7 +772,7 @@ footer {
 
 @media (max-width: 400px) {
   .headSection {
-    height: 100vh;
+    height: 49vh;
   }
 
   .navBar {
