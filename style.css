@@ -683,6 +683,10 @@ footer {
     justify-content: center;
   }
 
+  .right{
+    text-align: center;
+  }
+
   .left-h1 {
     font-size: 35px;
   }
